@@ -24,3 +24,6 @@ git checkout main // 기본 브랜치가 main인 경우
 git checkout -b 브랜치이름
 ex) git checkout -b apply-feedback
 ```
+기능 요구사항
+자동차 이름 입력받기(5 이내)(','):로 구분
+시도할 횟수 입력받기:
